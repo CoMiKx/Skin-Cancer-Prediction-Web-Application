@@ -1,0 +1,131 @@
+{
+    "translations": {
+        "en": {
+            "test_results_summary": "Test Results Summary",
+            "prediction": "Prediction",
+            "confidence": "Confidence",
+            "more_about": "More About",
+            "back": "← Back",
+            "caution": "This assessment is merely preliminary. It is strongly recommended that you consult a medical professional for a comprehensive and accurate evaluation.",
+            "precautions": "Precautions"
+        },
+        "th": {
+            "test_results_summary": "สรุปผลการทดสอบ",
+            "prediction": "การทำนาย",
+            "confidence": "ความมั่นใจ",
+            "more_about": "เพิ่มเติมเกี่ยวกับ",
+            "back": "← กลับ",
+            "caution": "การประเมินนี้เป็นเพียงการประเมินเบื้องต้นเท่านั้น ขอแนะนำอย่างยิ่งให้ปรึกษาแพทย์ผู้เชี่ยวชาญเพื่อรับการประเมินที่ครอบคลุมและแม่นยำ",
+            "precautions": "การป้องกัน"
+        }
+    },
+    
+    "class_names": {
+        "en": {
+            "0": "Melanocytic nevi",
+            "1": "Melanoma",
+            "2": "Benign keratosis-like lesions",
+            "3": "Basal cell carcinoma",
+            "4": "Actinic keratoses",
+            "5": "Vascular lesions",
+            "6": "Dermatofibroma"
+        },
+        "th": {
+            "0": "ไฝ",
+            "1": "มะเร็งผิวหนังชนิดเมลาโนมา",
+            "2": "รอยโรคที่คล้ายกระ ที่ไม่เป็นอันตราย",
+            "3": "มะเร็งเบเซลเซลล์ ",
+            "4": "ผื่นแอกทินิกเคอราโทซิส",
+            "5": "เนื้องอกของเส้นเลือด",
+            "6": "เนื้องอกของเส้นใยในผิวหนัง"
+        }
+    },
+    
+    "moreInfos": {
+        "en": {
+            "0": "Also known as a mole, a melanocytic nevus is a benign (non-cancerous) growth of melanocytes. Moles can vary in color, size, and shape and are typically harmless. However, certain types of moles may have a higher risk of developing into melanoma, especially if they exhibit changes in appearance over time.",
+            "1": "Melanoma is a type of skin cancer that originates in melanocytes, the cells responsible for producing melanin, the pigment that gives skin its color. It often appears as a new spot or an existing mole that changes in size, shape, or color. Melanoma has the potential to metastasize and spread to other parts of the body if not detected and treated early.",
+            "2": "These are harmless skin growths like sun spots or raised bumps. Sometimes they look like cancer, so it's good to get them checked by a doctor.",
+            "3": "Basal cell carcinoma is the most common type of skin cancer, originating in the basal cells of the skin's outermost layer. It usually appears as a small, shiny bump or a red, scaly patch on sun-exposed areas of the skin. BCC tends to grow slowly and is less likely to spread to other parts of the body compared to melanoma.",
+            "4": "Actinic keratosis, also known as solar keratosis, is a precancerous growth that develops on sun-damaged skin. It appears as rough, scaly patches and has the potential to progress into squamous cell carcinoma if left untreated.",
+            "5": "These are issues with blood vessels in the skin, like red birthmarks or spider veins. They're usually harmless but might need treatment for looks or if they cause problems.",
+            "6": "It's a harmless bump made of fibrous tissue. It can be pink or brown and might be removed if it causes trouble."
+        },
+        "th": {
+            "0": "Melanocytic Nevus หรือที่เรียกว่าไฝ คือการเจริญเติบโตที่ไม่เป็นอันตราย (ไม่เป็นมะเร็ง) ของเม็ดสีเมลาโนไซต์ ไฝอาจมีสี ขนาด และรูปร่างแตกต่างกันไป และโดยทั่วไปจะไม่เป็นอันตราย อย่างไรก็ตาม ไฝบางประเภทอาจมีความเสี่ยงสูงที่จะพัฒนาเป็นมะเร็งผิวหนัง โดยเฉพาะอย่างยิ่งหากไฝมีการเปลี่ยนแปลงรูปร่างเมื่อเวลาผ่านไป",
+            "1": "เมลาโนมาเป็นมะเร็งผิวหนังชนิดหนึ่งที่มีต้นกำเนิดในเซลล์เมลาโนไซต์ ซึ่งเป็นเซลล์ที่ทำหน้าที่ผลิตเมลานิน ซึ่งเป็นเม็ดสีที่ให้สีผิว มักปรากฏเป็นจุดใหม่หรือไฝที่มีอยู่ซึ่งมีการเปลี่ยนแปลงขนาด รูปร่าง หรือสี มะเร็งผิวหนังมีศักยภาพที่จะแพร่กระจายและแพร่กระจายไปยังส่วนอื่น ๆ ของร่างกายหากตรวจไม่พบและรักษาตั้งแต่เนิ่นๆ",
+            "2": "สิ่งเหล่านี้คือการเจริญเติบโตของผิวหนังที่ไม่เป็นอันตราย เช่น จุดด่างดำหรือตุ่มนูน บางครั้งอาจดูเหมือนเป็นมะเร็ง ดังนั้นจึงเป็นการดีที่จะให้แพทย์ตรวจดู",
+            "3": "มะเร็งเซลล์ต้นกำเนิดเป็นมะเร็งผิวหนังชนิดที่พบบ่อยที่สุด โดยมีต้นกำเนิดในเซลล์ต้นกำเนิดของชั้นนอกสุดของผิวหนัง มักปรากฏเป็นตุ่มเล็กๆ เป็นมันเงา หรือมีปื้นสีแดงเป็นสะเก็ดบนผิวหนังบริเวณที่โดนแสงแดด BCC มีแนวโน้มที่จะเติบโตช้าและมีโอกาสแพร่กระจายไปยังส่วนอื่นๆ ของร่างกายน้อยกว่าเมื่อเปรียบเทียบกับมะเร็งผิวหนัง",
+            "4": "Actinic keratosis หรือที่เรียกว่า Solar keratosis คือการเจริญเติบโตของมะเร็งที่เกิดขึ้นบนผิวหนังที่ได้รับความเสียหายจากแสงแดด มีลักษณะเป็นหย่อมๆ หยาบและเป็นสะเก็ด และมีศักยภาพที่จะลุกลามเป็นมะเร็งเซลล์สความัสได้หากปล่อยทิ้งไว้โดยไม่ได้รับการรักษา",
+            "5": "ปัญหาเหล่านี้คือปัญหาเกี่ยวกับหลอดเลือดในผิวหนัง เช่น ปานแดงหรือหลอดเลือดดำแมงมุม โดยปกติแล้วจะไม่เป็นอันตรายแต่อาจต้องได้รับการรักษาเพื่อรูปร่างหน้าตาหรือหากทำให้เกิดปัญหา",
+            "6": "เป็นตุ่มที่ไม่เป็นอันตรายซึ่งทำจากเนื้อเยื่อเส้นใย อาจเป็นสีชมพูหรือสีน้ำตาลและอาจถอดออกหากเกิดปัญหา"
+        }
+    },
+    
+    "precautions": {
+        "en": [
+            {
+                "heading": "Regular Skin Checks",
+                "moreInfo": "Keep an eye on any moles or skin abnormalities. Report changes to your doctor.",
+                "img": "/static/images/body_check.svg"
+            },
+            {
+                "heading": "Sun Protection",
+                "moreInfo": "Wear sunscreen, protective clothing, and seek shade to prevent further damage",
+                "img": "/static/images/sun.svg"
+            },
+            {
+                "heading": "Avoid Tanning Beds",
+                "moreInfo": "UV radiation from tanning beds can increase your risk of skin cancer.",
+                "img": "/static/images/bed.svg"
+            },
+            {
+                "heading": "Healthy Lifestyle",
+                "moreInfo": "Eat a balanced diet, exercise regularly, and avoid smoking",
+                "img": "/static/images/food.svg"
+            },
+            {
+                "heading": "Medical Advice",
+                "moreInfo": "Follow your dermatologist's recommendations for treatment and follow-up appointments.",
+                "img": "/static/images/medical.svg"
+            },
+            {
+                "heading": "Stay Informed",
+                "moreInfo": "Educate yourself about your condition and treatment options.",
+                "img": "/static/images/news.svg"
+            }
+        ],
+        "th": [
+            {
+                "heading": "การตรวจผิวหนังเป็นประจำ",
+                "moreInfo": "จับตาดูไฝหรือความผิดปกติของผิวหนัง รายงานการเปลี่ยนแปลงไปยังแพทย์ของคุณ",
+                "img": "/static/images/body_check.svg"
+            },
+            {
+                "heading": "ป้องกันแสงแดด",
+                "moreInfo": "สวมครีมกันแดด ชุดป้องกัน และหาที่ร่มเพื่อป้องกันความเสียหายเพิ่มเติม",
+                "img": "/static/images/sun.svg"
+            },
+            {
+                "heading": "หลีกเลี่ยงเตียงอาบแดด",
+                "moreInfo": "รังสียูวีจากเตียงอาบแดดสามารถเพิ่มความเสี่ยงต่อการเป็นมะเร็งผิวหนังได้",
+                "img": "/static/images/bed.svg"
+            },
+            {
+                "heading": "ไลฟ์สไตล์เพื่อสุขภาพ",
+                "moreInfo": "รับประทานอาหารที่สมดุล ออกกำลังกายสม่ำเสมอ และหลีกเลี่ยงการสูบบุหรี่",
+                "img": "/static/images/food.svg"
+            },
+            {
+                "heading": "คำแนะนำทางการแพทย์",
+                "moreInfo": "ปฏิบัติตามคำแนะนำของแพทย์ผิวหนังเพื่อรับการรักษาและการนัดหมายติดตามผล",
+                "img": "/static/images/medical.svg"
+            },
+            {
+                "heading": "ติดตามข่าวสารอยู่เสมอ",
+                "moreInfo": "หาความรู้เกี่ยวกับอาการและทางเลือกในการรักษาของคุณ",
+                "img": "/static/images/news.svg"
+            }
+        ]
+    }
+}
